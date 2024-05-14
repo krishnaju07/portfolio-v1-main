@@ -28,18 +28,18 @@ const Header = () => {
             experience. Proficient in Html, Material UI, Javascript and React.
           </p>
           <div  className="flex items-center gap-5">
-            <a data-aos="fade-right" data-aos-duration="800" data-aos-delay="800" href="https://github.com/Cheeh1" target="_blank" rel="noreferrer">
+            <a data-aos="fade-right" data-aos-duration="800" data-aos-delay="800" href="https://github.com/krishnaju07?tab=repositories" target="_blank" rel="noreferrer">
               <i className="fa-brands fa-github fa-xl"></i>
             </a>
-            <a data-aos="fade-right" data-aos-duration="800" data-aos-delay="900" href="https://twitter.com/iamcheeh" target="_blank" rel="noreferrer">
+            {/* <a data-aos="fade-right" data-aos-duration="800" data-aos-delay="900" href="https://twitter.com/iamcheeh" target="_blank" rel="noreferrer">
               <i className="fa-brands fa-twitter fa-xl"></i>
-            </a>
-            <a data-aos="fade-right" data-aos-duration="800" data-aos-delay="1100" href="https://www.linkedin.com/in/divineedwin/" target="_blank" rel="noreferrer">
+            </a> */}
+            <a data-aos="fade-right" data-aos-duration="800" data-aos-delay="1100" href="https://www.linkedin.com/in/hari-krishnan-3333571ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">
               <i className="fa-brands fa-linkedin-in fa-xl"></i>
             </a>
-            <a data-aos="fade-right" data-aos-duration="800" data-aos-delay="1200" href="https://cheehdevworkshop.hashnode.dev/" target="_blank" rel="noreferrer">
+            {/* <a data-aos="fade-right" data-aos-duration="800" data-aos-delay="1200" href="https://cheehdevworkshop.hashnode.dev/" target="_blank" rel="noreferrer">
               <i className="fa-brands fa-blogger fa-xl"></i>
-            </a>
+            </a> */}
           </div>
         </div>
         <div className="xl:w-96" data-aos="flip-right" data-aos-duration="800" data-aos-delay="900">

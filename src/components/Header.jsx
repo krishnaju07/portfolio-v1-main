@@ -15,9 +15,9 @@ const Header = () => {
         <div className="flex flex-col gap-5 mx-20 xl:mx-0">
           <div data-aos="fade-right" data-aos-duration="800" data-aos-delay="200" className="flex gap-3">
             <p className="border-2 w-4 h-1 my-2 text-[#D9D9D9]"></p>
-            <p className="text-sm font-light text-cinder-light dark:text-white tracking-widest font-inter">
+            {/* <p className="text-sm font-light text-cinder-light dark:text-white tracking-widest font-inter">
               MY NAME IS
-            </p>
+            </p> */}
           </div>
           <h1 data-aos="fade-right" data-aos-duration="800" data-aos-delay="400" className="text-cinder-dark-mode text-5xl font-bold font-pjs xl:text-6xl">
             Hari krishnan A
